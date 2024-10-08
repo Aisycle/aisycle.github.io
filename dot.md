@@ -3,7 +3,7 @@ layout: home
 title: "Aisycle/dot"
 ---
 # dot
-[ichinose](#ichinose) | 
+[ichinose](#ichinose) | [test](#test) |  
 
 ## ichinose
 ### 2024

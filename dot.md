@@ -10,7 +10,6 @@ title: "Aisycle/dot"
 ![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x4.gif)
 
 ![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x4x.gif)
-
 ![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x_96.png)
 
 ## kurioi
@@ -18,5 +17,4 @@ title: "Aisycle/dot"
 ![202410_kurioi](img/202410_kurioi_x4.gif)
 
 ![202410_kurioi](img/202410_kurioi_x_x4.gif)
-
 ![202410_kurioi](img/202410_kurioi_96.png)

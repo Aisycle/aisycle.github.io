@@ -15,7 +15,7 @@ title: "Aisycle/dot"
 
 ## kurioi
 
-![202410_kurioi](img/202410_kurioi_8x.gif)
+![202410_kurioi](img/202410_kurioi_x4.gif)
 
 ![202410_kurioi](img/202410_kurioi_x_x4.gif)
 

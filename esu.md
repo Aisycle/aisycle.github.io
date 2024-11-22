@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Aisycle/Esusama"
+title: "Aisycle/Esu"
 ---
 # 麗志坂えす
 ## マウスカーソル

@@ -9,23 +9,6 @@ title: "Aisycle/Esusama"
 
 Download:[esu_cursor.zip](files/esu_cursor.zip)
 
-【設定方法】
-
-1.カーソルのファイルをすべてＷindowsフォルダ内にある[Cursors]フォルダにコピーします
-　例：PC→Cドライブ→Windows→Cursors
-
-2.以下のサイトを参考にカーソルを設定してください
-
-(オススメ)
-※事前に、「カーソルとポインター」の設定画面で
-　ポインターのサイズを「2」に設定しておくと大きく表示されます。
-Windows 10でマウスポインターの大きさやデザインを変更する方法
-
-https://www.pc-koubou.jp/magazine/40776
-
-
-【設定例】
-
 *通常の選択	esu_arrow.ani
 *ヘルプの選択	esu_help.ani
 *バックグラウンドで作業中	esu_busy.ani

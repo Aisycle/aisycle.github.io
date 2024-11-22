@@ -20,6 +20,7 @@ Download:[esu_cursor.zip](files/esu_cursor.zip)
 ※事前に、「カーソルとポインター」の設定画面で
 　ポインターのサイズを「2」に設定しておくと大きく表示されます。
 Windows 10でマウスポインターの大きさやデザインを変更する方法
+
 https://www.pc-koubou.jp/magazine/40776
 
 

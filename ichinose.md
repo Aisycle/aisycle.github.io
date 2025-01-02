@@ -2,7 +2,7 @@
 layout: home
 title: "Aisycle/ichinose"
 ---
-# dot
+# ichinose
 [ichinose](#ichinose) 
 
 ## ichinose

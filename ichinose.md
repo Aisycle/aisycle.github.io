@@ -7,6 +7,8 @@ title: "Aisycle/ichinose"
 
 ## ichinose
 ### 202501
+![202501_ichinose](img/202501_ichinose_x.gif)
+![202501_ichinose_png](img/202501_ichinose_x_96.png)
 
 ### 202410
 ![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x4.gif)

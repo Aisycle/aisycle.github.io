@@ -14,4 +14,4 @@ title: "Aisycle/kanon"
 ![kanon2gif256](img/kanon/kanon2_256_x.gif)
 
 ![kanon1png](img/kanon/kanon1_x.png)
-![kanon2png](img/kanon/kanon2.x.png)
+![kanon2png](img/kanon/kanon2_x.png)

@@ -7,11 +7,11 @@ title: "Aisycle/kanon"
 
 ## kanon
 ### 202502
-![202501_ichinose](img/202501_ichinose_x.gif)
-![202501_ichinose_png](img/202501_ichinose_x_96.png)
+![kanon1gif](img/kanon/kanon1_384.gif)
+![kanon2gif](img/kanon/kanon2_384.gif)
 
-### 202410
-![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x4.gif)
+![kanon1gif256](img/kanon/kanon1_256_x.gif)
+![kanon2gif256](img/kanon/kanon2_256_x.gif)
 
-![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x4x.gif)
-![20241008_ichinose_hpb](img/20241008_ichinose_hpb_x_96.png)
+![kanon1png](img/kanon/kanon1_x.png)
+![kanon2png](img/kanon/kanon2.x.png)
